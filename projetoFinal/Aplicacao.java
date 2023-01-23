@@ -1,6 +1,6 @@
 package projetoFinal;
 
-public class Main {
+public class Aplicacao {
     public static void main(String[] args) {
         Veiculo veiculoPequeno = new Veiculo("pequeno");
         Veiculo veiculoMedio = new Veiculo("medio");
